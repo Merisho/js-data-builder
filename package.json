@@ -1,13 +1,16 @@
 {
   "name": "smp-data-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "homepage": "https://github.com/Merisho/js-data-builder",
+  "author": {
+    "name": "Alexei Torunov"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [ "data builder", "unit testing", "object mother" ],
   "license": "ISC",
   "devDependencies": {
     "assert": "^1.4.1"
