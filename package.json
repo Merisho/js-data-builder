@@ -1,9 +1,13 @@
 {
   "name": "smp-data-builder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/Merisho/js-data-builder",
   "author": {
     "name": "Alexei Torunov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Merisho/js-data-builder.git"
   },
   "description": "",
   "main": "index.js",
