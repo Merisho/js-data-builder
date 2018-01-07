@@ -1,0 +1,1 @@
+Just data builder for using in tests. You should extend this builder for your own builders to have more expressive interfaces
